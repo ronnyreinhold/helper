@@ -43,9 +43,8 @@ netstat -tulpn | grep LISTEN
   In this section you'll find most used docker commands to help you in your daily tasks
 </p>
 
-<small>
-Thanks to rxaviers for the list of icons, you can find in this [link]([icons-url])
-</small>
+
+###### Thanks to rxaviers for the list of icons, you can find in this [link][icons-url]
 
 <!-- Markdown link & img dfn's -->
 [icons-url]: https://gist.github.com/rxaviers/7360908
