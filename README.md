@@ -32,7 +32,7 @@ List all **LISTEN PORTS**:
 netstat -tulpn | grep LISTEN
 ```
 
-Watch for a **SPECIFIC PORT**
+Look for a **SPECIFIC PORT**
 ```
 sudo lsof -i:22
 ```
