@@ -44,7 +44,7 @@ netstat -tulpn | grep LISTEN
 </p>
 
 <small>
-Thanks to rxaviers for the list of icons, you can find in this [link][icons-url]
+Thanks to rxaviers for the list of icons, you can find in this [link]([icons-url])
 </small>
 
 <!-- Markdown link & img dfn's -->
