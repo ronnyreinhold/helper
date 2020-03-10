@@ -32,6 +32,11 @@ List all **LISTEN PORTS**:
 netstat -tulpn | grep LISTEN
 ```
 
+Watch for a **SPECIFIC PORT**
+```
+sudo lsof -i:22
+```
+
 ## :star: Git
 <p style='color:#c1c1c1'>
   In this section you'll find most used git commands to help you in your daily tasks
