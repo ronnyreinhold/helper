@@ -117,13 +117,6 @@ Install all needed packeges:
   yarn start --port 8050
   ```
 
-  Afeter that, you can simple use the command:
-  ```
-  react-native run-android --deviceId=192.168.0.3:5555 --verbose
-  ```
-  to start app
-
-
 
 ###### Thanks to rxaviers for the list of icons, you can find in this [link][icons-url]
 
