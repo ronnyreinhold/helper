@@ -91,6 +91,11 @@ Install all needed packeges:
   adb -s 34e4569 tcpip 5555
   adb connect 192.168.0.3:5555
   ```
+  
+  Start react-native application:
+  ```
+  yarn start --port 8050
+  ```
 
   Now it's possible to install apk using wifi
   ```
@@ -104,6 +109,8 @@ Install all needed packeges:
     2 line: Install APK into Android mobile.
   </p>
   <br />
+
+  <b>Steps to restart application</b>
 
   Start react-native application:
   ```
