@@ -95,6 +95,7 @@ Install all needed packeges:
   Start react-native application:
   ```
   yarn start --port 8050
+  react-native run-android --deviceId=192.168.0.3:5555 --verbose  
   ```
 
   Now it's possible to install apk using wifi
