@@ -113,7 +113,12 @@ Install all needed packeges:
   ```
   yarn start --port 8050
   ```
+  <br/>
 
+  To remove app from mobile device, run the command:
+  ```
+  adb -s 192.168.0.3:5555 uninstall com.mynewtestapp 
+  ```
 
 ###### Thanks to rxaviers for the list of icons, you can find in this [link][icons-url]
 
