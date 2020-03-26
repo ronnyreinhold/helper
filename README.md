@@ -100,15 +100,11 @@ Install all needed packeges:
 
   Now it's possible to install apk using wifi
   ```
-  ~/Android/Sdk/platform-tools/adb -s 192.168.0.3:5555 reverse tcp:8050 tcp:8050
-  cd android && adb -s 192.168.0.3:5555 install -r -d app/build/outputs/apk/debug/app-debug.apk 
+  react-native run-android
   ```
-  <p>
-    1 line: Set ADB tcp port to device 192.168.0.3:5555
-  </p>
-  <p>
-    2 line: Install APK into Android mobile.
-  </p>
+
+  after that, you should shake your device and change ip:port to reach metro server
+
   <br />
 
   <b>Steps to restart application</b>
